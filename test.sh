@@ -8,3 +8,4 @@ mkdir learn-zip
 mv Happy.zip learn-zip
 cd learn-zip
 chmod 444 Happy.zip
+touch new-1
